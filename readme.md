@@ -24,7 +24,7 @@ Play games, socialize, and create. Always be connected with your friends whether
 * Lua API
 * Party System
 * Dedicated servers
-* 64-bit coordinte system
+* 64-bit coordinate system
 * Voxel Engine
 
 ## Core features being worked on now for Pre-Alpha Release
@@ -38,7 +38,7 @@ Play games, socialize, and create. Always be connected with your friends whether
 Upload custom avatars.
 
 ### Gamemodes
-Define the rules of your game. killing hordes of zombies, flight simulation, Building contraptions, or playing Prop Hunt.
+Define the rules of your game. Killing hordes of zombies, flight simulation, Building contraptions, or playing Prop Hunt.
 
 ### Packages (mods)
 A package contains functionality and/or content to expand the game with. Servers have control over what packages are loaded per game instance, the gamemode, and world.
@@ -52,11 +52,11 @@ A package contains functionality and/or content to expand the game with. Servers
 Using **Lua 5.3** for now probably going to move to 5.1 for Lua JIT.
 
 ### Party System
-Create a party similar to a discoord server. When loading or not connected to any servers you are transfered to the party lounge.
+Create a party similar to a Discoord server. When loading or not connected to any servers you are transferred to the party lounge.
 
 ### Dedicated Servers
 Host your own servers running your own configuration of packages.
 
 ### 64-bit Coordinate System
-Great for large-scalel simulations. Space gamemodes, planetary rendering, and large scale voxel worlds.
+Great for large-scale simulations. Space gamemodes, planetary rendering, and large scale voxel worlds.
 
