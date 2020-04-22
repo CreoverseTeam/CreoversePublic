@@ -1,7 +1,7 @@
 # Creoverse
 [![Discord](https://img.shields.io/discord/654173583005974528.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pxYCDy6)
 
-Welcome to the public issues and wiki repository for Creoverse.
+Welcome to the public issues and wiki repository for Creoverse. Currently we are in the development phase, we plan to have a pre-alpha out by october 4, 2020.
 
 ## Bugs
 When reporting a bug, please include the following information.
